@@ -9,7 +9,7 @@
     "browser-only-package": "file:./browser-only-package"
   },
   "devDependencies": {
-    "vite": "8.2.0"
+    "vite": "8.2.4"
   },
   "pnpm": {
     "overrides": {
